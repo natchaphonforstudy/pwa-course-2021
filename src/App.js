@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Logo.jpg';
 import './App.css';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          ต้าน่ารักจังอ่ะ
         </a>
       </header>
     </div>
