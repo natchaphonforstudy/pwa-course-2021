@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ต้าน่ารักจังอ่ะ
+          Link here
         </a>
       </header>
     </div>
