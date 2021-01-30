@@ -15,7 +15,7 @@
 
 .App-header {
   flex: 1;
-  background-color: #331a12;
+  background-color: #3ee23e;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -32,6 +32,7 @@
 .App-chatroom-text {
   margin: 8px;
   background-color: rgb(201, 138, 138);
+  color: blueviolet;
 }
 
 .App-textbox {
